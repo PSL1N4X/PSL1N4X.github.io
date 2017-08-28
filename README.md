@@ -1,3 +1,4 @@
+![](./n1x-tilog-09x.png)
 # PSL1N4X - the 6-sec reboot *UNIX distro
 
 PSL1N4X - v6.3.0-aug22-N1X-VITUni-patch [*UNIX] made to F>L>Y || (c) itsN1X @ http://N1X.site
@@ -19,7 +20,7 @@ PSL1N4X - v6.3.0-aug22-N1X-VITUni-patch [*UNIX] made to F>L>Y || (c) itsN1X @ ht
 
 ---
 
-http://PSL1N4X.github.io
 # PSL1N4X v0.6.4
-## (C) 2017 NIKHIL PANDITA
-### Vellore, TN (INDIA)
+## http://PSL1N4X.github.io
+### (C) 2017 NIKHIL PANDITA
+#### Vellore, TN (INDIA)
