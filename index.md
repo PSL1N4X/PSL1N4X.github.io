@@ -1,15 +1,15 @@
 <html>
 <head>
-	<title>PSL1N4X v6.3.0-aug22-N1X-VITUni-patch</title>
+	<title>PSL1N4X : v6.3.0-aug22-N1X-VITUni-patch</title>
 	<meta charset="utf-8">
 </head>
 <body>
 	
 	<div id="container">
-	<h1>PSL1N4X v6.3.0-aug22-N1X-VITUni-patch [*UNIX]</h1>
+	<h1>v6.3.0-aug22-N1X-VITUni-patch [*UNIX]</h1>
 		<header class="logo-header">
 			<img class="header-logo" alt="Logo" src="n1x-tilog-09x.png">
-			<h1>PSL1N4X</h1><h6>Compiled by <i>$^@n1x.site/~itsN1X</i> with <i><b>woof-ce</i></b>. Source code is now available on my <a href="http://github.com/itsN1X">git profile</a> and <a href="http://N1X.site">website</a>.</h6>
+			<h1>PSL1N4X</h1><h4>Compiled by $^@n1x.site/~itsN1X with woof-ce. Source code is now available on my <a href="http://github.com/itsN1X">git profile</a> and <a href="http://N1X.site">website</a>.</h4>
 		
 		<h3>Kernel v6.3.0-aug22-N1X-VITUni-patch</h2>
 		</header>
