@@ -9,11 +9,17 @@ PSL1N4X - v6.3.0-aug22-N1X-VITUni-patch [*UNIX] made to F>L>Y || (c) itsN1X @ ht
 ## Assets:
 - You may download dark wallpapers for your PSL1N4X from the "WallX" directory in this repository.
 
-``` 
+```
+
 >> git -clone
 >> cd..
 >> --make-install
+
 ```
 
-# (C) 2017 NIKHIL PANDITA
+---
+
+http://PSL1N4X.github.io
+# PSL1N4X v0.6.4
+## (C) 2017 NIKHIL PANDITA
 ### Vellore, TN (INDIA)
